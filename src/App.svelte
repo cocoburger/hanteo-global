@@ -1,32 +1,12 @@
-<!-- Main.svelte -->
 <script>
-    import { onMount } from 'svelte';
     import TabMenu from './components/home/TabMenu.svelte';
     import HomeBannerSlider from './components/home/HomeBannerSlider.svelte';
     import ContentList from './components/home/ContentList.svelte';
-    
-
-    onMount(() => {
-        // 모바일 화면 높이 조정 (iOS 주소창 문제 해결)
-        const setVh = () => {
-            let vh = window.innerHeight * 0.01;
-            document.documentElement.style.setProperty('--vh', `${ vh }px`);
-        };
-
-        setVh();
-        window.addEventListener('resize', setVh);
-
-        return () => {
-            window.removeEventListener('resize', setVh);
-        };
-    });
 </script>
 
 <div
     class="app"
-
 >
-
     <!-- 탭 메뉴 -->
     <nav
         class="tab-navigation"
@@ -64,30 +44,11 @@
 </div>
 
 <style>
-    :global(:root) {
-        --vh: 1vh;
-    }
-
-    :global(*) {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
-        -webkit-tap-highlight-color: transparent;
-    }
-
-    :global(body) {
-        background-color: #f5f5f5;
-        min-height: 100vh;
-        min-height: calc(var(--vh, 1vh) * 100);
-        overflow-x: hidden;
-    }
 
     .app {
         width: 100%;
         margin: 0 auto;
         min-height: 100vh;
-        min-height: calc(var(--vh, 1vh) * 100);
         position: relative;
         background-color: var(--color-background, #f5f5f5);
     }
@@ -102,7 +63,6 @@
         width: 100%;
         background-color: var(--color-background, #f5f5f5);
     }
-
 
     .content-section {
         background-color: #fff;
