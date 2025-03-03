@@ -38,7 +38,7 @@ export const banners = writable([
     id: 3,
     title: "M COUNTDOWN",
     subtitle: "'글로벌 사전 투표'",
-    date: "2020.02.08 10:00 ~ 2020.04.08 17:00)",
+    date: "2020.02.08 10:00 ~ 2020.04.08 17:00",
     buttonText: "투표하기",
     badge: "진행 중",
     imageUrl: "/api/placeholder/400/200",
