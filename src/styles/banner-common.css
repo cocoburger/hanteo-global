@@ -1,0 +1,42 @@
+/* 배너 컴포넌트들이 공유하는 공통 스타일 */
+:root {
+    --color-primary: #ff69b4;
+    --color-text: #333;
+    --color-text-dark: #222;
+    --banner-border-radius: 12px;
+    --banner-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.banner-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.banner-card {
+    background-color: #fff;
+    border-radius: var(--banner-border-radius);
+    overflow: hidden;
+    box-shadow: var(--banner-shadow);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.banner-container {
+    width: 100%;
+    background-color: #f5f5f5;
+    margin: 0 auto 10px;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0 5px;
+    width: 100%;
+}

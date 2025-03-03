@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "인기 아이돌 컴백 소식",
+    "subtitle": "신규 미니앨범 발매",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-05T08:30:00Z",
+    "badge": "속보"
+  },
+  {
+    "id": 2,
+    "title": "글로벌 팬미팅 개최 확정",
+    "subtitle": "아시아 5개국 투어",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-04T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "title": "음악방송 1위 수상",
+    "subtitle": "3관왕 달성",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-03T18:00:00Z",
+    "badge": "1위"
+  },
+  {
+    "id": 4,
+    "title": "신인 그룹 데뷔 쇼케이스",
+    "subtitle": "화려한 첫 무대",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-02T10:30:00Z",
+    "badge": "신인"
+  },
+  {
+    "id": 5,
+    "title": "K-POP 해외 인기 급상승",
+    "subtitle": "빌보드 차트 진입",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T14:20:00Z"
+  },
+  {
+    "id": 6,
+    "title": "아티스트 팬미팅 생중계 안내",
+    "subtitle": "온라인 스트리밍 예정",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-02-28T16:05:00Z"
+  },
+  {
+    "id": 7,
+    "title": "신규 리얼리티 프로그램 론칭",
+    "subtitle": "아이돌 일상 공개",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-02-27T11:40:00Z"
+  },
+  {
+    "id": 8,
+    "title": "연말 시상식 라인업 발표",
+    "subtitle": "화려한 게스트 명단",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-02-26T09:15:00Z"
+  }
+]

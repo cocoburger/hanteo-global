@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "신규 팬미팅 이벤트",
+    "subtitle": "인기 아이돌 팬미팅 응모",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-05T09:00:00Z",
+    "badge": "인기"
+  },
+  {
+    "id": 2,
+    "title": "콘서트 티켓 이벤트",
+    "subtitle": "월드투어 티켓 증정",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-04T10:30:00Z",
+    "badge": "마감임박"
+  },
+  {
+    "id": 3,
+    "title": "앨범 사인회 응모",
+    "subtitle": "신규 앨범 발매 기념",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-03T14:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "탄생일 축하 이벤트",
+    "subtitle": "생일 기념 특별 굿즈",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-02T11:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "새 앨범 발매 이벤트",
+    "subtitle": "음원 스트리밍 이벤트",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T15:30:00Z"
+  },
+  {
+    "id": 6,
+    "title": "팬클럽 모집 이벤트",
+    "subtitle": "공식 팬클럽 5기 모집",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-02-28T09:00:00Z",
+    "badge": "신규"
+  }
+]

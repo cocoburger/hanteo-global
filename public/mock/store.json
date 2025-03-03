@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "한정판 포토카드 세트",
+    "subtitle": "컴백 기념 포토카드",
+    "thumbUrl": "/api/placeholder/80/80",
+    "price": 25000,
+    "timestamp": "2023-03-05T10:00:00Z",
+    "badge": "신상품"
+  },
+  {
+    "id": 2,
+    "title": "응원봉 공식 버전",
+    "subtitle": "블루투스 연동 가능",
+    "thumbUrl": "/api/placeholder/80/80",
+    "price": 45000,
+    "timestamp": "2023-03-04T11:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "미니 6집 앨범",
+    "subtitle": "포스터 + 엽서 세트",
+    "thumbUrl": "/api/placeholder/80/80",
+    "price": 18000,
+    "timestamp": "2023-03-03T09:00:00Z",
+    "badge": "인기"
+  },
+  {
+    "id": 4,
+    "title": "팬미팅 티켓",
+    "subtitle": "서울 공연 VIP석",
+    "thumbUrl": "/api/placeholder/80/80",
+    "price": 120000,
+    "timestamp": "2023-03-02T15:00:00Z",
+    "badge": "마감임박"
+  },
+  {
+    "id": 5,
+    "title": "공식 후드티",
+    "subtitle": "2023 시즌 한정판",
+    "thumbUrl": "/api/placeholder/80/80",
+    "price": 65000,
+    "timestamp": "2023-03-01T13:45:00Z"
+  },
+  {
+    "id": 6,
+    "title": "멤버별 슬로건",
+    "subtitle": "전원 세트 구매 가능",
+    "thumbUrl": "/api/placeholder/80/80",
+    "price": 12000,
+    "timestamp": "2023-02-28T16:30:00Z"
+  },
+  {
+    "id": 7,
+    "title": "공식 키링 세트",
+    "subtitle": "아크릴 키링 7종",
+    "thumbUrl": "/api/placeholder/80/80",
+    "price": 28000,
+    "timestamp": "2023-02-27T12:15:00Z"
+  }
+]

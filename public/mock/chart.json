@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "차트 콘텐츠 1",
+    "subtitle": "인기 차트 1위",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T12:00:00Z",
+    "badge": "1위"
+  },
+  {
+    "id": 2,
+    "title": "차트 콘텐츠 2",
+    "subtitle": "인기 차트 2위",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T12:00:00Z",
+    "badge": "2위"
+  },
+  {
+    "id": 3,
+    "title": "차트 콘텐츠 3",
+    "subtitle": "인기 차트 3위",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T12:00:00Z",
+    "badge": "3위"
+  },
+  {
+    "id": 4,
+    "title": "차트 콘텐츠 4",
+    "subtitle": "인기 차트 4위",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "차트 콘텐츠 5",
+    "subtitle": "인기 차트 5위",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T12:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "차트 콘텐츠 6",
+    "subtitle": "인기 차트 6위",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T12:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "차트 콘텐츠 7",
+    "subtitle": "인기 차트 7위",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T12:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "차트 콘텐츠 8",
+    "subtitle": "인기 차트 8위",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T12:00:00Z"
+  }
+]

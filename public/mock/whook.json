@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Whook 스페셜 팬미팅",
+    "subtitle": "스타 독점 인터뷰",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-05T16:30:00Z",
+    "badge": "독점"
+  },
+  {
+    "id": 2,
+    "title": "백스테이지 영상 공개",
+    "subtitle": "콘서트 비하인드",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-04T13:45:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Whook 온라인 생방송",
+    "subtitle": "신곡 쇼케이스",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-03T19:00:00Z",
+    "badge": "LIVE"
+  },
+  {
+    "id": 4,
+    "title": "스타 일상 브이로그",
+    "subtitle": "오프 더 스테이지",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-02T11:20:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Whook 이벤트 당첨 발표",
+    "subtitle": "럭키드로우 결과",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-03-01T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "댄스 챌린지 참여방법",
+    "subtitle": "인기곡 커버 이벤트",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-02-28T14:30:00Z",
+    "badge": "이벤트"
+  },
+  {
+    "id": 7,
+    "title": "Whook 월간 매거진",
+    "subtitle": "3월호 발행",
+    "thumbUrl": "/api/placeholder/80/80",
+    "timestamp": "2023-02-27T12:40:00Z"
+  }
+]

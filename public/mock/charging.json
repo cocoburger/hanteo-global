@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "일일 출석 체크",
+    "subtitle": "매일 500P 지급",
+    "thumbUrl": "/api/placeholder/80/80",
+    "point": 500,
+    "timestamp": "2023-03-05T00:00:00Z",
+    "badge": "일일"
+  },
+  {
+    "id": 2,
+    "title": "선물 이벤트 참여",
+    "subtitle": "3000P 추가 적립",
+    "thumbUrl": "/api/placeholder/80/80",
+    "point": 3000,
+    "timestamp": "2023-03-04T12:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "신규 회원 보너스",
+    "subtitle": "가입 축하 포인트",
+    "thumbUrl": "/api/placeholder/80/80",
+    "point": 5000,
+    "timestamp": "2023-03-03T10:15:00Z",
+    "badge": "신규"
+  },
+  {
+    "id": 4,
+    "title": "투표 참여 보상",
+    "subtitle": "글로벌 차트 투표",
+    "thumbUrl": "/api/placeholder/80/80",
+    "point": 1000,
+    "timestamp": "2023-03-02T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "이벤트 응모 보너스",
+    "subtitle": "추가 포인트 지급",
+    "thumbUrl": "/api/placeholder/80/80",
+    "point": 2000,
+    "timestamp": "2023-03-01T14:45:00Z"
+  },
+  {
+    "id": 6,
+    "title": "친구 초대 보상",
+    "subtitle": "친구당 1000P 지급",
+    "thumbUrl": "/api/placeholder/80/80",
+    "point": 1000,
+    "timestamp": "2023-02-28T11:30:00Z",
+    "badge": "추천"
+  }
+]
