@@ -88,8 +88,8 @@
     </h2>
 
     {#if $contentLoading && $contents.length === 0}
-        <LoadingState 
-            message="콘텐츠를 불러오는 중..." 
+        <LoadingState
+            message="콘텐츠를 불러오는 중..."
             containerClass="loading-container"
             size="large"
         />
@@ -142,8 +142,8 @@
     {/if}
 
     {#if $contentLoading && $contents.length > 0}
-        <LoadingState 
-            message="추가 콘텐츠 로딩 중..." 
+        <LoadingState
+            message="추가 콘텐츠 로딩 중..."
             containerClass="loading-indicator"
             size="small"
         />
@@ -190,9 +190,9 @@
     }
 
     .content-thumbnail {
-        flex: 0 0 80px; /* Keep fixed width */
-        height: auto; /* Remove fixed height */
-        min-height: 100%; /* Fill entire height of parent */
+        flex: 0 0 80px;
+        height: auto;
+        min-height: 100%;
         background-color: #eee;
         background-position: center;
         background-size: cover;
@@ -251,10 +251,6 @@
         color: var(--color-primary, #ff69b4);
     }
 
-    .loading-container {
-        min-height: 200px;
-    }
-
     .scroll-sentinel {
         height: 1px;
         margin-bottom: 200px;
@@ -272,18 +268,11 @@
             margin-bottom: 0;
         }
 
-        .loading-indicator, .loading-container {
-            grid-column: span 2;
-        }
     }
 
     @media (min-width: 1024px) {
         .content-list {
             grid-template-columns: repeat(3, 1fr);
-        }
-
-        .loading-indicator, .loading-container {
-            grid-column: span 3;
         }
     }
 </style>
