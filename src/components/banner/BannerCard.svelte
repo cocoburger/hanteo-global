@@ -2,8 +2,8 @@
     import BannerImage from './BannerImage.svelte';
     import BannerContent from './BannerContent.svelte';
 
-    export let banner = {};
-    
+    export let banner = [];
+
     export let externalUrl = 'https://www.hanteoglobal.com/';
 
 
