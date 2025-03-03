@@ -55,7 +55,7 @@
 
     .tab-navigation {
         position: sticky;
-        top: 0px;
+        top: 0;
         z-index: 90;
     }
 
