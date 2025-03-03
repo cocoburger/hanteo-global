@@ -5,7 +5,6 @@
 ## 기술 스택
 
 - [Svelte](https://svelte.dev/)
-- [SvelteKit](https://kit.svelte.dev/)
 - [Swiper](https://swiperjs.com/) - 배너 슬라이더 구현
 - CSS Variables - 테마 및 스타일 관리
 
